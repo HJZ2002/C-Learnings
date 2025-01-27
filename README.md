@@ -1,2 +1,2 @@
-# C-Learnings
+# C# Learnings
 My little bit of practice 
